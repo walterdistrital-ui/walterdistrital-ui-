@@ -12,7 +12,7 @@ Sou um desenvolvedor iniciante apaixonado por tecnologia e por criar soluções 
 
 📍 **Localização:** Recife — Pernambuco, Brasil
 🎯 **Foco:** Sites simples, funcionais e acessíveis
-💡 **Filosofia:** Aprendendo um passo de cada vez, sempre com fé e perseverança.
+💡 **Filosofia:** *"Aprendendo um passo de cada vez, sempre com fé e perseverança."*
 
 ---
 
@@ -35,6 +35,12 @@ Sou um desenvolvedor iniciante apaixonado por tecnologia e por criar soluções 
 - 📅 Status: ✅ Em desenvolvimento
 - 🛠️ Tecnologias: HTML, CSS, JavaScript
 - 📝 Descrição: Aplicativo para acompanhar progresso de classes, especialidades, pin de excelência e registros de líderes
+
+### ⭐ Aventureiros Conectado
+> Sistema web voltado para o trabalho com Aventureiros
+- 📅 Status: ✅ Em desenvolvimento — Versão 1.3
+- 🛠️ Tecnologias: HTML, CSS, JavaScript
+- 📝 Descrição: Plataforma de acompanhamento de atividades, progresso e requisitos dos Aventureiros
 
 ### ❄️ AR Solução — Serviços e Climatização
 > Aplicativo para técnico de refrigeração, com área do cliente e área do técnico
@@ -66,6 +72,6 @@ Sou um desenvolvedor iniciante apaixonado por tecnologia e por criar soluções 
 
 ### 🙏 Uma Palavra
 
-> Tudo posso naquele que me fortalece. — Filipenses 4:13
+> *"Tudo posso naquele que me fortalece." — Filipenses 4:13*
 
 Obrigado pela visita! Sejam bem-vindos ao meu cantinho de aprendizado e crescimento. Que Deus abençoe cada um de vocês! ✨
